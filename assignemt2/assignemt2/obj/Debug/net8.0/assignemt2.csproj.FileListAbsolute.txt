@@ -1,0 +1,14 @@
+D:\assignemt2\assignemt2\bin\Debug\net8.0\assignemt2.exe
+D:\assignemt2\assignemt2\bin\Debug\net8.0\assignemt2.deps.json
+D:\assignemt2\assignemt2\bin\Debug\net8.0\assignemt2.runtimeconfig.json
+D:\assignemt2\assignemt2\bin\Debug\net8.0\assignemt2.dll
+D:\assignemt2\assignemt2\bin\Debug\net8.0\assignemt2.pdb
+D:\assignemt2\assignemt2\obj\Debug\net8.0\assignemt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignemt2\assignemt2\obj\Debug\net8.0\assignemt2.AssemblyInfoInputs.cache
+D:\assignemt2\assignemt2\obj\Debug\net8.0\assignemt2.AssemblyInfo.cs
+D:\assignemt2\assignemt2\obj\Debug\net8.0\assignemt2.csproj.CoreCompileInputs.cache
+D:\assignemt2\assignemt2\obj\Debug\net8.0\assignemt2.dll
+D:\assignemt2\assignemt2\obj\Debug\net8.0\refint\assignemt2.dll
+D:\assignemt2\assignemt2\obj\Debug\net8.0\assignemt2.pdb
+D:\assignemt2\assignemt2\obj\Debug\net8.0\assignemt2.genruntimeconfig.cache
+D:\assignemt2\assignemt2\obj\Debug\net8.0\ref\assignemt2.dll
